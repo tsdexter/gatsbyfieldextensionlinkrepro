@@ -15,7 +15,7 @@ exports.sourceNodes = ({ actions, createNodeId, createContentDigest }) => {
   },{
     key: 3,
     code: `ACCT`,
-    number: `1002`
+    number: 1002
   }]
 
   const programs = [{
